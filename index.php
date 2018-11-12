@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html>
    <header>
-      <title>Title</title>
-       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+      <title>I am in Here</title>
    </header>
+   <script type="text/javascript">
+      $("div h1").click(function(){
+         alert("It Works!");
+      });
+   </script>
    <style type="text/css">
 
       body{

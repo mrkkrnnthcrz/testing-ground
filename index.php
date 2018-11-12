@@ -8,28 +8,6 @@
          alert("It Works!");
       });
    </script>
-   <style type="text/css">
-
-      body{
-         padding: 0;
-         margin: 0;
-      }
-
-      * {
-         box-sizing: border-box;
-      }
-
-      div {
-         background-color: #dedede;
-         height:1000px;
-      }
-
-      div h1{
-         color:black;
-         cursor: pointer;
-      }
-
-   </style>
 <body>
 
    <div>

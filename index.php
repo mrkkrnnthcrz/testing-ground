@@ -13,12 +13,5 @@
    <div>
       <h1>Sample</h1>
    </div>
-
-   <script type="text/javascript">
-      $("div h1").click(function(){
-         alert("It Works!");
-      });
-   </script>
-
 </body>
 </html>
